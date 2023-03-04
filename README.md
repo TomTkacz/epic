@@ -7,7 +7,7 @@ This is a test project
 Run the following to install:
 
 ```python
-pip install epic
+pip install epic-by-tom-tkacz
 ```
 
 ## Usage
