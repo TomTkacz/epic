@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='epic-by-tom-tkacz',
-    version='0.0.1',
+    version='0.0.2',
     descript='Say epic!',
     py_modules=["epic"],
     package_dir={'': 'src'},
